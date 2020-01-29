@@ -12,7 +12,7 @@ spec:
         name: springboot
     spec:
       containers:
-      - image: ekqumjit14837/ubuntu
+      - image: ekqumjit14837/spring-boot-mongo
         name: springboot
         ports:
         - name: springboot
